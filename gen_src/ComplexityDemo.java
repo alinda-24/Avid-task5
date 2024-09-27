@@ -15,14 +15,7 @@ public class ComplexityDemo {
         return 0;
     }
 
-    /**
-     * Replaces elements in an ArrayList if they are less than the given threshold.
-     * The complexity is O(n).
-     *
-     * @param numbers   The ArrayList of integers.
-     * @param threshold The threshold value.
-     * @param newValue  The new value to set for elements less than the threshold.
-     */
+
     public static void replaceIf(ArrayList<Integer> numbers, int threshold, int newValue) {
         // TODO: Implement this method.
     }
